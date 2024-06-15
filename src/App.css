@@ -1,0 +1,57 @@
+body{
+  background-image: url("https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-08.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5%;
+}
+h1{
+  color: whitesmoke;
+}
+.coures-nav{
+  padding: 20px;
+  
+}
+.navbar{
+  border: 5px rgb(26, 45, 56) solid;
+  height: 100%;
+  padding: 5px;
+ .nav-item{
+  margin-left: 10%;
+ }
+ body{
+  background-image: url("https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-08.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5%;
+}
+h1{
+  color: whitesmoke;
+}
+.coures-nav{
+  padding: 20px;
+  
+}
+.navbar{
+  border: 5px rgb(50, 70, 82) solid;
+  height: 100%;
+  padding: 5px;
+ .nav-item{
+  margin-left: 10%;
+ }
+  
+}
+img{
+  height: 25vh;
+}
+.card{
+  background-color: rgb(46, 66, 89);
+  border: 5px rgb(13, 24, 31) solid;
+}
+}
+img{
+  height: 25vh;
+}
+.card{
+  background-color: rgb(53, 73, 96);
+  border: 5px rgb(13, 24, 31) solid;
+}
